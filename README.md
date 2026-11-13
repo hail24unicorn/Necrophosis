@@ -208,4 +208,4 @@ This repository serves as the official landing page for *Necrophosis*. The softw
 **Get the most recent version of *Necrophosis* today!**
 
 ---
-**Last updated:** 2026-11-12 18:46:40 UTC
+**Last updated:** 2026-11-13 00:04:54 UTC
